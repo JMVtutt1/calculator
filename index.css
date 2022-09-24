@@ -1,0 +1,36 @@
+table{
+  background: red;
+  margin: auto;
+}
+
+caption{
+  font-size: 25px;
+  font-weight: bold;
+}
+
+.display{
+  height: 100px;
+}
+
+input{
+  font-size: 40px;
+  text-align: right;
+  height: 60px;
+  width: 400px;
+  background: gray;
+}
+
+table, tr, th, td{
+  border: 3px solid black;
+  border: collapse;
+}
+
+td{
+  padding: 20px;
+}
+
+button{
+  height: 35px;
+  width: 50px;
+  font-size: 20px;
+}
